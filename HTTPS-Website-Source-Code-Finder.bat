@@ -20,5 +20,4 @@ echo Opening.....
 timeout 2
 start view-source:https://%SiteName%.%domain%
 echo Progess Complete!
-:9
-[]vh
+
